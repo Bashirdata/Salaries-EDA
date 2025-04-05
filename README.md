@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Employee Salary Dataset](https://tinyurl.com/SalaryEDAProject)
 
-- 🌱 I’m currently learning **Matplotlib, More on Pandas**
+- 🌱 I’m currently learning **Matplotlib, More on Pandas, ML**
 
 - 👯 I’m looking to collaborate on **Other real world Projects**
 
